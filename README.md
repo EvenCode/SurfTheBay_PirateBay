@@ -1,5 +1,5 @@
 # SurfTheBay_PirateBay
-This Scripts allows the user to surf PirateBay without any malware. spyware or advertisement issue.
+This Script allows the user to surf PirateBay without any malware. spyware or advertisement issue.
 
 <b>Requirements :</b>
 
